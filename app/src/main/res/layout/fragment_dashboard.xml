@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_15sdp"
+    android:background="@color/background"
+    tools:context=".Fragment.DashboardFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_welcome_login"
+        android:textSize="@dimen/_24ssp"
+        android:textStyle="bold"
+        android:textColor="@color/guava" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:text="@string/txt_desc_app"
+        android:textSize="@dimen/_18ssp"
+        android:textColor="@color/guava" />
+
+
+</LinearLayout>

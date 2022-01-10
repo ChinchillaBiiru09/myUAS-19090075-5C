@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">myUAS</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="txt_welcome_login">Welcome Back !</string>
+    <string name="txt_login">Hi, please login to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show_pass">Show Password</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_forgot_pass">Forgot Password?</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_list_data">List Data</string>
+    <string name="menu_data_manipulation">Data Manipulation</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_about_me">About Me</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+
+    <string name="txt_desc_app">
+        Aplikasi ini memuat beberapa menu dan menerapkan Rest API menggunakan retrofit.
+        Aplikasi ini dibuat guna memenuhi tugas UAS untuk mata kuliah Mobile Programming.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_about_me">ABOUT ME</string>
+    <string name="namaku">Nur Khafidah</string>
+    <string name="nimku">19090075</string>
+    <string name="kelasku">5 C</string>
+    <string name="blank" />
+</resources>
